@@ -1,0 +1,7 @@
+.pages {display:block;border:none;text-transform:uppercase;font-size:12px;margin:10px 0 50px;padding:0; float:right;}
+.pages li { color:#006699;list-style:none;float:left;text-decoration:none;margin:0 5px 0 0;}
+.pages li:hover { cursor:pointer;}
+.pages li.pgEmpty { color:#CCC; cursor:default; }
+.pages li.pgCurrent {color:red;font-weight:bold;}
+#buyerPager input,#sellerPager input{ width:40px;margin-right:10px;}
+.btn-Go{ cursor:pointer;}
